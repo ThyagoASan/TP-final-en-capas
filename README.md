@@ -1,8 +1,15 @@
-# Sistema de Gestión de Empleados — Arquitectura en 5 Capas
+# Sistema de Gestión de Empleados | C# · Windows Forms · Arquitectura en 5 Capas
 
 Aplicación de escritorio desarrollada en **C# y Windows Forms**, utilizando **.NET Framework 4.7.2** y **SQL Server** como motor de base de datos.
 
-El proyecto fue realizado como trabajo práctico académico, con el objetivo de implementar una arquitectura en capas que permita separar las responsabilidades del sistema, facilitar su mantenimiento y organizar el acceso a los datos.
+Desarrollado como trabajo práctico académico y presentado como parte de mi portfolio de desarrollo de software. Su objetivo es aplicar una arquitectura en capas para separar responsabilidades, facilitar el mantenimiento y organizar el acceso a los datos.
+
+## Qué demuestra este proyecto
+
+- Diseño y organización de una aplicación de escritorio en **cinco capas**.
+- Implementación de operaciones CRUD y lógica de negocio en C#.
+- Integración de Windows Forms con SQL Server y procedimientos almacenados.
+- Persistencia, mapeo de datos y exportación XML.
 
 ## Tecnologías utilizadas
 
@@ -121,7 +128,7 @@ La carpeta `docs/` contiene documentación académica del proyecto y documentos 
 
 Proyecto académico funcional, reorganizado para mejorar la presentación del código y facilitar su exploración.
 
-**Pendiente:** validar la instalación desde cero, documentar completamente la configuración de conexión y agregar capturas de la aplicación.
+**Pendiente:** validar la instalación desde cero y documentar completamente la configuración de conexión.
 
 ## Autor
 
