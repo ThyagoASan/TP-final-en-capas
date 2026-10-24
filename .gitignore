@@ -1,0 +1,15 @@
+# Visual Studio
+.vs/
+**/bin/
+**/obj/
+*.user
+*.suo
+
+# SQL Server
+*.bak
+*.mdf
+*.ldf
+
+# Archivos privados
+.env
+.env.*
