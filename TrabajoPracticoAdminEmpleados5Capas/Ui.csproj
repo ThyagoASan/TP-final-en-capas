@@ -144,7 +144,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\BE\BE.csproj">
+    <ProjectReference Include="..\backend\BE\BE.csproj">
       <Project>{e638728e-8ee2-436a-9b22-b718ad59c373}</Project>
       <Name>BE</Name>
     </ProjectReference>
