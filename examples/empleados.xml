@@ -1,27 +1,27 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ArrayOfBEEmpleado xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <BEEmpleado>
     <Codigo>1</Codigo>
     <Nombre>Juan</Nombre>
     <Apellido>Perez</Apellido>
-    <Dni>30123456</Dni>
-    <Salario>120000</Salario>
+    <Dni>90000001</Dni>
+    <Salario>850000</Salario>
     <IdDepartamentoCodigo>1</IdDepartamentoCodigo>
   </BEEmpleado>
   <BEEmpleado>
     <Codigo>2</Codigo>
-    <Nombre>Ana</Nombre>
-    <Apellido>Gomez</Apellido>
-    <Dni>28987654</Dni>
-    <Salario>135000</Salario>
+    <Nombre>Maria</Nombre>
+    <Apellido>Lopez</Apellido>
+    <Dni>90000002</Dni>
+    <Salario>920000</Salario>
     <IdDepartamentoCodigo>2</IdDepartamentoCodigo>
   </BEEmpleado>
   <BEEmpleado>
     <Codigo>3</Codigo>
-    <Nombre>Lucas</Nombre>
-    <Apellido>Fernandez</Apellido>
-    <Dni>31222333</Dni>
-    <Salario>110000</Salario>
+    <Nombre>Pedro</Nombre>
+    <Apellido>Gomez</Apellido>
+    <Dni>90000003</Dni>
+    <Salario>780000</Salario>
     <IdDepartamentoCodigo>3</IdDepartamentoCodigo>
   </BEEmpleado>
 </ArrayOfBEEmpleado>
