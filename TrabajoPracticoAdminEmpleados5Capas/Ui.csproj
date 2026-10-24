@@ -156,11 +156,12 @@
       <Project>{efd94056-70e8-4ea4-863d-11d0c1a167c1}</Project>
       <Name>DAL</Name>
     </ProjectReference>
-    <ProjectReference Include="..\MPP\MPP.csproj">
+    <ProjectReference Include="..\backend\MPP\MPP.csproj">
       <Project>{31e82829-a785-42ae-9152-3f56b42896c6}</Project>
       <Name>MPP</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
+
 

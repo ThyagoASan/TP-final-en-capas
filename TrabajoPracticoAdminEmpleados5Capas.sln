@@ -11,7 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "backend\DAL\DAL.csproj", "{EFD94056-70E8-4EA4-863D-11D0C1A167C1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MPP", "MPP\MPP.csproj", "{31E82829-A785-42AE-9152-3F56B42896C6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MPP", "backend\MPP\MPP.csproj", "{31E82829-A785-42AE-9152-3F56B42896C6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -47,5 +47,6 @@ Global
 		SolutionGuid = {817732B3-3356-45DB-B17B-2FB80FA37D08}
 	EndGlobalSection
 EndGlobal
+
 
 
