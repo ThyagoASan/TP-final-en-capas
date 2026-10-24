@@ -1,4 +1,4 @@
-
+﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35219.272
@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BE", "backend\BE\BE.csproj"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{DCE6A19E-53DC-4A52-9757-EBF6473C6DF7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{EFD94056-70E8-4EA4-863D-11D0C1A167C1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "backend\DAL\DAL.csproj", "{EFD94056-70E8-4EA4-863D-11D0C1A167C1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MPP", "MPP\MPP.csproj", "{31E82829-A785-42AE-9152-3F56B42896C6}"
 EndProject
@@ -47,4 +47,5 @@ Global
 		SolutionGuid = {817732B3-3356-45DB-B17B-2FB80FA37D08}
 	EndGlobalSection
 EndGlobal
+
 

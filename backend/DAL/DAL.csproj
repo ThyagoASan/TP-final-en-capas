@@ -46,7 +46,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\backend\BE\BE.csproj">
+    <ProjectReference Include="..\BE\BE.csproj">
       <Project>{e638728e-8ee2-436a-9b22-b718ad59c373}</Project>
       <Name>BE</Name>
     </ProjectReference>
