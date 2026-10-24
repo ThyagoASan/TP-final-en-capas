@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35219.272
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ui", "TrabajoPracticoAdminEmpleados5Capas\Ui.csproj", "{29CE11D5-D445-4D5A-A475-BDC4ABAC6EE9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ui", "frontend\TrabajoPracticoAdminEmpleados5Capas\Ui.csproj", "{29CE11D5-D445-4D5A-A475-BDC4ABAC6EE9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BE", "backend\BE\BE.csproj", "{E638728E-8EE2-436A-9B22-B718AD59C373}"
 EndProject
@@ -47,6 +47,7 @@ Global
 		SolutionGuid = {817732B3-3356-45DB-B17B-2FB80FA37D08}
 	EndGlobalSection
 EndGlobal
+
 
 
 

@@ -144,25 +144,26 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\backend\BE\BE.csproj">
+    <ProjectReference Include="..\..\backend\BE\BE.csproj">
       <Project>{e638728e-8ee2-436a-9b22-b718ad59c373}</Project>
       <Name>BE</Name>
     </ProjectReference>
-    <ProjectReference Include="..\backend\BLL\BLL.csproj">
+    <ProjectReference Include="..\..\backend\BLL\BLL.csproj">
       <Project>{dce6a19e-53dc-4a52-9757-ebf6473c6df7}</Project>
       <Name>BLL</Name>
     </ProjectReference>
-    <ProjectReference Include="..\backend\DAL\DAL.csproj">
+    <ProjectReference Include="..\..\backend\DAL\DAL.csproj">
       <Project>{efd94056-70e8-4ea4-863d-11d0c1a167c1}</Project>
       <Name>DAL</Name>
     </ProjectReference>
-    <ProjectReference Include="..\backend\MPP\MPP.csproj">
+    <ProjectReference Include="..\..\backend\MPP\MPP.csproj">
       <Project>{31e82829-a785-42ae-9152-3f56b42896c6}</Project>
       <Name>MPP</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
+
 
 
 
